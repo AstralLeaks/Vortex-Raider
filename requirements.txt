@@ -1,0 +1,6 @@
+licensing
+datetime
+colorama
+requests
+websocket
+tls_client
